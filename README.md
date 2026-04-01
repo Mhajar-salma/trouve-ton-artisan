@@ -1,16 +1,91 @@
-# React + Vite
+# Trouve ton artisan
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Présentation
 
-Currently, two official plugins are available:
+Ce projet est une application web développée en React permettant aux particuliers de trouver un artisan en Auvergne-Rhône-Alpes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+L’utilisateur peut rechercher un artisan, consulter sa fiche et le contacter via un formulaire.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Fonctionnalités
 
-## Expanding the ESLint configuration
+* Page d’accueil avec présentation du service
+* Liste des artisans
+* Filtrage par catégorie
+* Recherche par nom, spécialité ou localisation
+* Fiche détaillée d’un artisan
+* Formulaire de contact
+* Pages légales
+* Page 404
+* Design responsive (mobile, tablette, desktop)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Technologies utilisées
+
+* React
+* React Router
+* Bootstrap
+* Sass
+* JavaScript
+
+---
+
+## Installation
+
+```bash
+npm install
+```
+
+---
+
+## Lancement du projet
+
+```bash
+npm run dev
+```
+
+---
+
+## Structure du projet
+
+```bash
+src/
+  components/
+  data/
+  pages/
+  services/
+  styles/
+```
+
+---
+
+## Données
+
+Les artisans sont actuellement chargés depuis un fichier JSON local en attendant l’intégration d’une API.
+
+---
+
+## Accessibilité
+
+Le site respecte les principes d’accessibilité avec :
+
+* des labels associés aux champs
+* une structure claire
+* une navigation simple
+
+---
+
+## Sécurité
+
+* Validation des champs du formulaire
+* Nettoyage des entrées utilisateur
+* Limitation de la longueur des données
+* Gestion des erreurs
+
+---
+
+## Auteur
+
+Projet réalisé par Salma Mhajar
