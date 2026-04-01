@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Boulangerie Dupont",
+    "category": "alimentation",
+    "specialty": "Boulanger",
+    "location": "Lyon",
+    "rating": 4.8,
+    "about": "Artisan boulanger installé à Lyon, spécialisé dans les pains au levain et les viennoiseries artisanales.",
+    "website": "https://example.com",
+    "email": "contact@boulangerie-dupont.fr",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "name": "Menuiserie Martin",
+    "category": "fabrication",
+    "specialty": "Menuisier",
+    "location": "Grenoble",
+    "rating": 4.6,
+    "about": "Entreprise familiale de menuiserie réalisant des meubles sur mesure et des aménagements intérieurs.",
+    "website": "https://example.com",
+    "email": "contact@menuiserie-martin.fr",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "name": "Plomberie Rhône Services",
+    "category": "batiment",
+    "specialty": "Plombier",
+    "location": "Villeurbanne",
+    "rating": 4.7,
+    "about": "Spécialiste des installations sanitaires, dépannages rapides et rénovations de salles de bain.",
+    "website": "https://example.com",
+    "email": "contact@rhone-services.fr",
+    "featured": true
+  },
+  {
+    "id": 4,
+    "name": "Élec Confort",
+    "category": "batiment",
+    "specialty": "Électricien",
+    "location": "Annecy",
+    "rating": 4.5,
+    "about": "Interventions en électricité générale, rénovation, mise aux normes et installation d’équipements.",
+    "website": "https://example.com",
+    "email": "contact@elec-confort.fr",
+    "featured": false
+  },
+  {
+    "id": 5,
+    "name": "Atelier Couture Élégance",
+    "category": "services",
+    "specialty": "Couturier",
+    "location": "Clermont-Ferrand",
+    "rating": 4.9,
+    "about": "Retouches, créations sur mesure et confection de vêtements pour particuliers.",
+    "website": "https://example.com",
+    "email": "contact@couture-elegance.fr",
+    "featured": false
+  },
+  {
+    "id": 6,
+    "name": "Saveurs du Terroir",
+    "category": "alimentation",
+    "specialty": "Traiteur",
+    "location": "Saint-Étienne",
+    "rating": 4.4,
+    "about": "Traiteur artisanal mettant en avant les produits régionaux et les recettes traditionnelles.",
+    "website": "https://example.com",
+    "email": "contact@saveurs-terroir.fr",
+    "featured": false
+  },
+  {
+    "id": 7,
+    "name": "Carrosserie du Parc",
+    "category": "services",
+    "specialty": "Carrossier",
+    "location": "Valence",
+    "rating": 4.3,
+    "about": "Réparation et peinture automobile avec prise en charge rapide et accompagnement client.",
+    "website": "https://example.com",
+    "email": "contact@carrosserie-parc.fr",
+    "featured": false
+  },
+  {
+    "id": 8,
+    "name": "Ferronnerie des Alpes",
+    "category": "fabrication",
+    "specialty": "Ferronnier",
+    "location": "Chambéry",
+    "rating": 4.8,
+    "about": "Création d’ouvrages métalliques sur mesure pour l’intérieur et l’extérieur.",
+    "website": "https://example.com",
+    "email": "contact@ferronnerie-alpes.fr",
+    "featured": false
+  }
+]
